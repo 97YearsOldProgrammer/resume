@@ -1,9 +1,9 @@
 #  Gong Chen 				              
 
 **Junior Undergraduate Student at UC Davis**  
-**GitHub**: [97YearsOldProgrammer](https://github.com/97YearsOldProgrammer)  
-**Phone**: 530-760-5865  
-**Email**: [dsbchen@ucdavis.edu](mailto:dsbchen@ucdavis.edu) 
+- **GitHub**: [97YearsOldProgrammer](https://github.com/97YearsOldProgrammer)  
+- **Phone**: 530-760-5865  
+- **Email**: [dsbchen@ucdavis.edu](mailto:dsbchen@ucdavis.edu) 
 
 ---
 Passionate junior student at UC Davis majoring in Neurobiology, Physiology and Behavior & Mathematical and Scientific Computation . Experienced in bioinformatics and data analysis, with hands-on project work in genetic sequence analysis and computational biology. Skilled in Python and Git, and actively seeking internship opportunities in bioinformatics and related fields.
