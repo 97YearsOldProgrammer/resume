@@ -22,7 +22,7 @@ _Bachelor of Science in Biological Sciences and Mathematics_
 
 ## Skills
 
-- ** Programming Languages **: Python, Bash, Git, Markdown
+- ** Programming Languages **: Python, Bash, Git, Markdown, R
 - ** Data Analysis **: Genetic sequence analysis, data cleaning, statistical analysis
 - ** Soft Skills **: Effective communication, teamwork, problem-solving
 - ** Interests **: Bodybuilding, Reading, Hiking, Cooking
