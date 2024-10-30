@@ -29,7 +29,7 @@ Expected Graduation: **June 2026**
 
 ---
 
-----------**     Research Experience     **-----------
+## Research Experience
 
 2023.7-2023.8 Guanghan Technology (Shanghai) Co., Ltd
 
@@ -38,7 +38,7 @@ Expected Graduation: **June 2026**
 - ** Utilizing microarray technique, specific SNP array, for risk assessment on breast cancer.  
 - ** Market analysis on precise medicine, targeting drugs of pancreatitis and diabetes.
 
-----------**     Clinical Experience     **----------
+## Clinical Experience 
 
 2023.7-2023.8   Jiaxinglu Community healthcare center-China, Shanghai  
 
@@ -46,7 +46,7 @@ Expected Graduation: **June 2026**
 - ** Assisting patients-doctors communication as coordinator.  
 - ** Working on a daily basis pharmaceutical and dispensary work.
 
-----------**     Volunteer Experience    **----------
+## Volunteer Experience
 
 2021.1-2021.6 Hongkou Autistic children welfare organization-China, Shanghai
 
