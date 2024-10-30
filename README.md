@@ -16,7 +16,7 @@ Passionate junior student at UC Davis majoring in Neurobiology, Physiology and B
 _Bachelor of Science in Biological Sciences and Mathematics_  
 - ** Junior Year  
 - ** GPA: 3.60
-Expected Graduation: **June 2026**
+- ** Expected Graduation: **June 2026**
 
 ---
 
